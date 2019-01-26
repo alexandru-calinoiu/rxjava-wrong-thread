@@ -19,7 +19,7 @@ internal class PuzzleEightTest {
            subscribe onNext 2: RxIoScheduler
            subscribe onNext 3: main
 
-        D. All the above
+        D*. All the above
 
         E. None of the above
          */

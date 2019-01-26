@@ -5,12 +5,12 @@ internal class PuzzleFourTest {
     @Test
     fun `call will do the work`() {
         /*
-        A. main thread name: main
+        A*. main thread name: main
            subscribe onNext: RxComputationScheduler
            subscribe onNext: RxComputationScheduler
            subscribe onNext: RxComputationScheduler
 
-        B. main thread name: main
+        B+. main thread name: main
            subscribe onNext: RxComputationScheduler
            subscribe onNext: RxComputationScheduler
            subscribe onNext: main

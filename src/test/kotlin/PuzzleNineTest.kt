@@ -12,7 +12,7 @@ internal class PuzzleNineTest {
            subscribe onNext 1: RxIoScheduler
            subscribe onNext 2: RxIoScheduler
 
-        C. main thread name: main
+        C*. main thread name: main
            subscribe onNext 1: RxIoScheduler
            subscribe onNext 2: main
 

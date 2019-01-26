@@ -4,7 +4,7 @@ internal class PuzzleOneTest {
     @Test
     fun `call will do the funk`() {
         /*
-        A. main thread name: main
+        A*. main thread name: main
            subscribe onNext: RxComputationScheduler
            subscribe onNext: main
 

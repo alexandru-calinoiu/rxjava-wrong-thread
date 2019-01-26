@@ -8,10 +8,10 @@ internal class PuzzleFiveTest {
         A. main thread name: main
            subscribe onNext: RxIoScheduler
 
-        B. main thread name: main
+        B+. main thread name: main
            subscribe onNext: RxComputationScheduler
 
-        C. None of the above
+        C*. None of the above
          */
         PuzzleFive().call()
     }

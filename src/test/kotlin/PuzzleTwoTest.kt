@@ -4,7 +4,7 @@ class PuzzleTwoTest {
     @Test
     fun `call will do something`() {
         /*
-        A. main thread name: main
+        A*. main thread name: main
            subscribe onNext: RxComputationScheduler
            subscribe onNext: RxIoScheduler
 

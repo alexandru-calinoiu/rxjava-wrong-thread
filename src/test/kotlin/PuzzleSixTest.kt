@@ -10,7 +10,7 @@ internal class PuzzleSixTest {
         B. main thread name: main
            subscribe onNext: RxComputationScheduler
 
-        C. Either of the above
+        C*. Either of the above
 
         D. None of the above
          */

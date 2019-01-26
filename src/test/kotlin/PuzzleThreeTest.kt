@@ -5,7 +5,7 @@ internal class PuzzleThreeTest {
     @Test
     fun `will do the work`() {
         /*
-        A. main thread name: main
+        A*. main thread name: main
            subscribe onNext: RxComputationScheduler
            subscribe onNext: RxIoScheduler
 
