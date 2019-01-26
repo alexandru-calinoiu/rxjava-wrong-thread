@@ -1,0 +1,1 @@
+fun printCurrentThread(tag: String) = println("$tag: ${Thread.currentThread().name.substringBefore("-")}")
